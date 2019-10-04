@@ -17,30 +17,30 @@ body{
     float: left;
 }
 .sidebar img{
-    width: 50%;
-    margin-left: 10px;
+    width: 80%;
+    margin-left: 2px;
     margin-top: 7px;
 }
 .navbar_top {
-    height: 5vh;
-    width: 17%;
+   height: 5vh;
+    width: 19%;
     background-color: red;
-    font-size: 22px;
     color: gold;
     text-align: center;
+    font-size: 22px;
+
 }
 .navbar_bottom {
     height: 95vh;
-    width: 14%;
+    width: 16%;
     background-color: #d1d1d1;
     float: left;
 }
+.daily_message{
+  width: 100%;
+  height: 60px;
+  text-align: center;
+}
 span{
   color: red;
-}
-.daily_message{
-  width: 100vh;
-  height: 60px;
-  margin-top: 0;
-  margin-left: 40%;
 }
