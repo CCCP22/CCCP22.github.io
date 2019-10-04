@@ -23,7 +23,7 @@ body{
 }
 .navbar_top {
    height: 5vh;
-    width: 19%;
+    width: 17%;
     background-color: red;
     color: gold;
     text-align: center;
@@ -32,7 +32,7 @@ body{
 }
 .navbar_bottom {
     height: 95vh;
-    width: 16%;
+    width: 14%;
     background-color: #d1d1d1;
     float: left;
 }
