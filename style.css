@@ -52,6 +52,7 @@ span{
   font-size: 18px;
   margin-top: 30px;
   font-weight: 600;
+  list-style: none;
 }
 .clicker:hover{
   color: red;
