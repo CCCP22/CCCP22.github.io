@@ -44,3 +44,15 @@ body{
 span{
   color: red;
 }
+.clicker{
+  width: 100%;
+  height: 30px;
+  border: none;
+  background: none;
+  font-size: 18px;
+  margin-top: 30px;
+  font-weight: 600;
+}
+.clicker:hover{
+  color: red;
+}
